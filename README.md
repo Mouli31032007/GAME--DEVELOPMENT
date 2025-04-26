@@ -2,7 +2,7 @@
 
 **AIM :**
 
-To  implement the Bresenham’s  algorithm for circle using a c coding.
+To  implement the Bresenham’s  algorithm for circle using a c coding..
 
 
 **ALGORITHM :**
